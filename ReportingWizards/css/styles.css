@@ -51,6 +51,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 #hero {
+    background:#333; /* Replace with a color or a valid image URL */
     height: 60vh;
     display: flex;
     justify-content: center;
